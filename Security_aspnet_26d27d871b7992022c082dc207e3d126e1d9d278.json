@@ -1,0 +1,453 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2024-04-29T12:13:10Z",
+    "creators": [
+      "Tool: GitHub.com-Dependency-Graph"
+    ],
+    "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included."
+  },
+  "name": "com.github.aspnet/Security",
+  "dataLicense": "CC0-1.0",
+  "documentDescribes": [
+    "SPDXRef-com.github.aspnet-Security"
+  ],
+  "documentNamespace": "https://github.com/aspnet/Security/dependency_graph/sbom-420c15d473a05c33",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-com.github.aspnet-Security",
+      "name": "com.github.aspnet/Security",
+      "versionInfo": "",
+      "downloadLocation": "git+https://github.com/aspnet/Security",
+      "licenseDeclared": "Apache-2.0",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/aspnet/Security"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-BenchmarkDotNet",
+      "name": "nuget:BenchmarkDotNet",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.BenchmarkRunner.Sources",
+      "name": "nuget:Microsoft.AspNetCore.BenchmarkRunner.Sources",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Http",
+      "name": "nuget:Microsoft.AspNetCore.Http",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection",
+      "name": "nuget:Microsoft.Extensions.DependencyInjection",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Logging",
+      "name": "nuget:Microsoft.Extensions.Logging",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Server.IISIntegration",
+      "name": "nuget:Microsoft.AspNetCore.Server.IISIntegration",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Server.Kestrel",
+      "name": "nuget:Microsoft.AspNetCore.Server.Kestrel",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Logging.Console",
+      "name": "nuget:Microsoft.Extensions.Logging.Console",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.DataProtection",
+      "name": "nuget:Microsoft.AspNetCore.DataProtection",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Hosting",
+      "name": "nuget:Microsoft.AspNetCore.Hosting",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Configuration.EnvironmentVariables",
+      "name": "nuget:Microsoft.Extensions.Configuration.EnvironmentVariables",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Caching.Memory",
+      "name": "nuget:Microsoft.Extensions.Caching.Memory",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Diagnostics",
+      "name": "nuget:Microsoft.AspNetCore.Diagnostics",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.StaticFiles",
+      "name": "nuget:Microsoft.AspNetCore.StaticFiles",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Configuration.UserSecrets",
+      "name": "nuget:Microsoft.Extensions.Configuration.UserSecrets",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.IdentityModel.Clients.ActiveDirectory",
+      "name": "nuget:Microsoft.IdentityModel.Clients.ActiveDirectory",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Server.Kestrel.Https",
+      "name": "nuget:Microsoft.AspNetCore.Server.Kestrel.Https",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.FileProviders.Embedded",
+      "name": "nuget:Microsoft.Extensions.FileProviders.Embedded",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Logging.Debug",
+      "name": "nuget:Microsoft.Extensions.Logging.Debug",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Authentication.Core",
+      "name": "nuget:Microsoft.AspNetCore.Authentication.Core",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Http.Extensions",
+      "name": "nuget:Microsoft.AspNetCore.Http.Extensions",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Logging.Abstractions",
+      "name": "nuget:Microsoft.Extensions.Logging.Abstractions",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Options",
+      "name": "nuget:Microsoft.Extensions.Options",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.SecurityHelper.Sources",
+      "name": "nuget:Microsoft.Extensions.SecurityHelper.Sources",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.WebEncoders",
+      "name": "nuget:Microsoft.Extensions.WebEncoders",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.IdentityModel.Protocols.OpenIdConnect",
+      "name": "nuget:Microsoft.IdentityModel.Protocols.OpenIdConnect",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Newtonsoft.Json",
+      "name": "nuget:Newtonsoft.Json",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.IdentityModel.Protocols.WsFederation",
+      "name": "nuget:Microsoft.IdentityModel.Protocols.WsFederation",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-System.IdentityModel.Tokens.Jwt",
+      "name": "nuget:System.IdentityModel.Tokens.Jwt",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Authentication.Abstractions",
+      "name": "nuget:Microsoft.AspNetCore.Authentication.Abstractions",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Http.Abstractions",
+      "name": "nuget:Microsoft.AspNetCore.Http.Abstractions",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Routing",
+      "name": "nuget:Microsoft.AspNetCore.Routing",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-BenchmarkDotNet"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.BenchmarkRunner.Sources"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Http"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Logging"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Server.IISIntegration"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Server.Kestrel"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Logging.Console"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.DataProtection"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Hosting"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Configuration.EnvironmentVariables"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Diagnostics"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.StaticFiles"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Configuration.UserSecrets"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.IdentityModel.Clients.ActiveDirectory"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Server.Kestrel.Https"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.FileProviders.Embedded"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Logging.Debug"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Authentication.Core"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Http.Extensions"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Options"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.SecurityHelper.Sources"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.WebEncoders"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.IdentityModel.Protocols.OpenIdConnect"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Newtonsoft.Json"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.IdentityModel.Protocols.WsFederation"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Authentication.Abstractions"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Http.Abstractions"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.aspnet-Security",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Routing"
+    }
+  ]
+}

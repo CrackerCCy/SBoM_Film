@@ -1,0 +1,633 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2024-04-29T12:04:11Z",
+    "creators": [
+      "Tool: GitHub.com-Dependency-Graph"
+    ],
+    "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included."
+  },
+  "name": "com.github.facebookresearch/fairseq",
+  "dataLicense": "CC0-1.0",
+  "documentDescribes": [
+    "SPDXRef-com.github.facebookresearch-fairseq"
+  ],
+  "documentNamespace": "https://github.com/facebookresearch/fairseq/dependency_graph/sbom-05e12b7f486d8f8a",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-com.github.facebookresearch-fairseq",
+      "name": "com.github.facebookresearch/fairseq",
+      "versionInfo": "",
+      "downloadLocation": "git+https://github.com/facebookresearch/fairseq",
+      "licenseDeclared": "MIT",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/facebookresearch/fairseq"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-amfm-decompy",
+      "name": "pip:amfm-decompy",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-appdirs",
+      "name": "pip:appdirs",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-decorator",
+      "name": "pip:decorator",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-einops",
+      "name": "pip:einops",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-joblib",
+      "name": "pip:joblib",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-numba",
+      "name": "pip:numba",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-packaging",
+      "name": "pip:packaging",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-requests",
+      "name": "pip:requests",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-scipy",
+      "name": "pip:scipy",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-six",
+      "name": "pip:six",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-sklearn",
+      "name": "pip:sklearn",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-fairseq-0.12.2",
+      "name": "pip:fairseq",
+      "versionInfo": "0.12.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/fairseq@0.12.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pandas-1.4.3",
+      "name": "pip:pandas",
+      "versionInfo": "1.4.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pandas@1.4.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-sacrebleu-2.2.0",
+      "name": "pip:sacrebleu",
+      "versionInfo": "2.2.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/sacrebleu@2.2.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-torch-1.12.1",
+      "name": "pip:torch",
+      "versionInfo": "1.12.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/torch@1.12.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-torchaudio-0.12.1",
+      "name": "pip:torchaudio",
+      "versionInfo": "0.12.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/torchaudio@0.12.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-tqdm-4.64.0",
+      "name": "pip:tqdm",
+      "versionInfo": "4.64.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/tqdm@4.64.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-transformers-4.21.1",
+      "name": "pip:transformers",
+      "versionInfo": "4.21.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/transformers@4.21.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-bitarray",
+      "name": "pip:bitarray",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-cffi",
+      "name": "pip:cffi",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-cython",
+      "name": "pip:cython",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-hydra-core",
+      "name": "pip:hydra-core",
+      "versionInfo": ">= 1.0.7,< 1.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-numpy",
+      "name": "pip:numpy",
+      "versionInfo": ">= 1.21.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-omegaconf",
+      "name": "pip:omegaconf",
+      "versionInfo": "< 2.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-regex",
+      "name": "pip:regex",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-sacrebleu",
+      "name": "pip:sacrebleu",
+      "versionInfo": ">= 1.4.12",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-scikit-learn",
+      "name": "pip:scikit-learn",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-torch",
+      "name": "pip:torch",
+      "versionInfo": ">= 1.13",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-torchaudio",
+      "name": "pip:torchaudio",
+      "versionInfo": ">= 0.8.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-tqdm",
+      "name": "pip:tqdm",
+      "versionInfo": "",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-pip-submitit",
+      "name": "pip:submitit",
+      "versionInfo": ">= 1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-2",
+      "name": "actions:actions/checkout",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-setup-python-2",
+      "name": "actions:actions/setup-python",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/setup-python@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-3",
+      "name": "actions:actions/checkout",
+      "versionInfo": "3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-download-artifact-2",
+      "name": "actions:actions/download-artifact",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/download-artifact@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-upload-artifact-2",
+      "name": "actions:actions/upload-artifact",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/upload-artifact@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-EndBug-add-and-commit-9",
+      "name": "actions:EndBug/add-and-commit",
+      "versionInfo": "9",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/EndBug/add-and-commit@9",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-ncipollo-release-action-1",
+      "name": "actions:ncipollo/release-action",
+      "versionInfo": "1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/ncipollo/release-action@1",
+          "referenceType": "purl"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-amfm-decompy"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-appdirs"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-decorator"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-einops"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-joblib"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-numba"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-packaging"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-requests"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-scipy"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-six"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-sklearn"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-fairseq-0.12.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-pandas-1.4.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-sacrebleu-2.2.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-torch-1.12.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-torchaudio-0.12.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-tqdm-4.64.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-transformers-4.21.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-bitarray"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-cffi"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-cython"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-hydra-core"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-numpy"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-omegaconf"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-regex"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-sacrebleu"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-scikit-learn"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-torch"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-torchaudio"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-tqdm"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-pip-submitit"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-actions-actions-setup-python-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-actions-actions-download-artifact-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-actions-actions-upload-artifact-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-actions-EndBug-add-and-commit-9"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.facebookresearch-fairseq",
+      "relatedSpdxElement": "SPDXRef-actions-ncipollo-release-action-1"
+    }
+  ]
+}

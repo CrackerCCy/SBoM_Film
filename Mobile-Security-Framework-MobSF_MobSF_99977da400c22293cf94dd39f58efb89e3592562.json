@@ -1,0 +1,2504 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2024-04-29T12:15:59Z",
+    "creators": [
+      "Tool: GitHub.com-Dependency-Graph"
+    ]
+  },
+  "name": "com.github.MobSF/Mobile-Security-Framework-MobSF",
+  "dataLicense": "CC0-1.0",
+  "documentDescribes": [
+    "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF"
+  ],
+  "documentNamespace": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/dependency_graph/sbom-deb266c5addecd6b",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "name": "com.github.MobSF/Mobile-Security-Framework-MobSF",
+      "versionInfo": "",
+      "downloadLocation": "git+https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "licenseDeclared": "GPL-3.0",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/MobSF/Mobile-Security-Framework-MobSF"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-aioquic-mitmproxy-0.9.21.1",
+      "name": "pip:aioquic-mitmproxy",
+      "versionInfo": "0.9.21.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/aioquic-mitmproxy@0.9.21.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-altgraph-0.17.4",
+      "name": "pip:altgraph",
+      "versionInfo": "0.17.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/altgraph@0.17.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-apkid-2.1.5",
+      "name": "pip:apkid",
+      "versionInfo": "2.1.5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-or-later",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/apkid@2.1.5",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-apksigcopier-1.1.1",
+      "name": "pip:apksigcopier",
+      "versionInfo": "1.1.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/apksigcopier@1.1.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-apksigtool-0.1.0",
+      "name": "pip:apksigtool",
+      "versionInfo": "0.1.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "AGPL-3.0-or-later",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/apksigtool@0.1.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-arpy-2.3.0",
+      "name": "pip:arpy",
+      "versionInfo": "2.3.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/arpy@2.3.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-asgiref-3.7.2",
+      "name": "pip:asgiref",
+      "versionInfo": "3.7.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/asgiref@3.7.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-asn1crypto-1.5.1",
+      "name": "pip:asn1crypto",
+      "versionInfo": "1.5.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/asn1crypto@1.5.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-attrs-21.4.0",
+      "name": "pip:attrs",
+      "versionInfo": "21.4.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/attrs@21.4.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-bcrypt-4.1.2",
+      "name": "pip:bcrypt",
+      "versionInfo": "4.1.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/bcrypt@4.1.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-beautifulsoup4-4.12.3",
+      "name": "pip:beautifulsoup4",
+      "versionInfo": "4.12.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/beautifulsoup4@4.12.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-biplist-1.0.3",
+      "name": "pip:biplist",
+      "versionInfo": "1.0.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/biplist@1.0.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-blinker-1.7.0",
+      "name": "pip:blinker",
+      "versionInfo": "1.7.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/blinker@1.7.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-boltons-21.0.0",
+      "name": "pip:boltons",
+      "versionInfo": "21.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/boltons@21.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-bracex-2.4",
+      "name": "pip:bracex",
+      "versionInfo": "2.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/bracex@2.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-brotli-1.1.0",
+      "name": "pip:brotli",
+      "versionInfo": "1.1.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/brotli@1.1.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-bs4-0.0.2",
+      "name": "pip:bs4",
+      "versionInfo": "0.0.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/bs4@0.0.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-certifi-2024.2.2",
+      "name": "pip:certifi",
+      "versionInfo": "2024.2.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MPL-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/certifi@2024.2.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-cffi-1.16.0",
+      "name": "pip:cffi",
+      "versionInfo": "1.16.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/cffi@1.16.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-charset-normalizer-3.3.2",
+      "name": "pip:charset-normalizer",
+      "versionInfo": "3.3.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/charset-normalizer@3.3.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-click-8.1.7",
+      "name": "pip:click",
+      "versionInfo": "8.1.7",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/click@8.1.7",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-click-option-group-0.5.6",
+      "name": "pip:click-option-group",
+      "versionInfo": "0.5.6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/click-option-group@0.5.6",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-colorama-0.4.6",
+      "name": "pip:colorama",
+      "versionInfo": "0.4.6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/colorama@0.4.6",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-colorlog-6.8.2",
+      "name": "pip:colorlog",
+      "versionInfo": "6.8.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/colorlog@6.8.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-cryptography-41.0.7",
+      "name": "pip:cryptography",
+      "versionInfo": "41.0.7",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0 OR (Apache-2.0 AND BSD-3-Clause)",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/cryptography@41.0.7",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-defusedxml-0.7.1",
+      "name": "pip:defusedxml",
+      "versionInfo": "0.7.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "PSF-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/defusedxml@0.7.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-distro-1.9.0",
+      "name": "pip:distro",
+      "versionInfo": "1.9.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/distro@1.9.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-django-5.0.4",
+      "name": "pip:django",
+      "versionInfo": "5.0.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/django@5.0.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-face-22.0.0",
+      "name": "pip:face",
+      "versionInfo": "22.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/face@22.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-filelock-3.13.3",
+      "name": "pip:filelock",
+      "versionInfo": "3.13.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Unlicense",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/filelock@3.13.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-flask-3.0.2",
+      "name": "pip:flask",
+      "versionInfo": "3.0.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/flask@3.0.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-frida-16.2.1",
+      "name": "pip:frida",
+      "versionInfo": "16.2.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/frida@16.2.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-glom-22.1.0",
+      "name": "pip:glom",
+      "versionInfo": "22.1.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/glom@22.1.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-google-play-scraper-1.2.6",
+      "name": "pip:google-play-scraper",
+      "versionInfo": "1.2.6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/google-play-scraper@1.2.6",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-gunicorn-21.2.0",
+      "name": "pip:gunicorn",
+      "versionInfo": "21.2.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/gunicorn@21.2.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-h11-0.14.0",
+      "name": "pip:h11",
+      "versionInfo": "0.14.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/h11@0.14.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-h2-4.1.0",
+      "name": "pip:h2",
+      "versionInfo": "4.1.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/h2@4.1.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-hpack-4.0.0",
+      "name": "pip:hpack",
+      "versionInfo": "4.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/hpack@4.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-http-tools-4.0.0",
+      "name": "pip:http-tools",
+      "versionInfo": "4.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/http-tools@4.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-hyperframe-6.0.1",
+      "name": "pip:hyperframe",
+      "versionInfo": "6.0.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/hyperframe@6.0.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-idna-3.6",
+      "name": "pip:idna",
+      "versionInfo": "3.6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/idna@3.6",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-ip2location-8.10.0",
+      "name": "pip:ip2location",
+      "versionInfo": "8.10.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/ip2location@8.10.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-itsdangerous-2.1.2",
+      "name": "pip:itsdangerous",
+      "versionInfo": "2.1.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/itsdangerous@2.1.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-jinja2-3.1.3",
+      "name": "pip:jinja2",
+      "versionInfo": "3.1.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/jinja2@3.1.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-jsonschema-4.17.3",
+      "name": "pip:jsonschema",
+      "versionInfo": "4.17.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/jsonschema@4.17.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-kaitaistruct-0.10",
+      "name": "pip:kaitaistruct",
+      "versionInfo": "0.10",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/kaitaistruct@0.10",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-ldap3-2.9.1",
+      "name": "pip:ldap3",
+      "versionInfo": "2.9.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LGPL-3.0-or-later",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/ldap3@2.9.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-libsast-2.0.3",
+      "name": "pip:libsast",
+      "versionInfo": "2.0.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-or-later AND LGPL-3.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/libsast@2.0.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-lief-0.14.1",
+      "name": "pip:lief",
+      "versionInfo": "0.14.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/lief@0.14.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-lxml-5.2.1",
+      "name": "pip:lxml",
+      "versionInfo": "5.2.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/lxml@5.2.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-macholib-1.16.3",
+      "name": "pip:macholib",
+      "versionInfo": "1.16.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/macholib@1.16.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-markupsafe-2.1.5",
+      "name": "pip:markupsafe",
+      "versionInfo": "2.1.5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/markupsafe@2.1.5",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-mitmproxy-10.1.5",
+      "name": "pip:mitmproxy",
+      "versionInfo": "10.1.5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/mitmproxy@10.1.5",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-mitmproxy-macos-0.4.1",
+      "name": "pip:mitmproxy-macos",
+      "versionInfo": "0.4.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/mitmproxy-macos@0.4.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-mitmproxy-rs-0.4.1",
+      "name": "pip:mitmproxy-rs",
+      "versionInfo": "0.4.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/mitmproxy-rs@0.4.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-mitmproxy-windows-0.4.1",
+      "name": "pip:mitmproxy-windows",
+      "versionInfo": "0.4.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/mitmproxy-windows@0.4.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-msgpack-1.0.8",
+      "name": "pip:msgpack",
+      "versionInfo": "1.0.8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/msgpack@1.0.8",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-openstep-parser-1.5.4",
+      "name": "pip:openstep-parser",
+      "versionInfo": "1.5.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/openstep-parser@1.5.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-packaging-21.3",
+      "name": "pip:packaging",
+      "versionInfo": "21.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0 OR (Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause)",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/packaging@21.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-paramiko-3.4.0",
+      "name": "pip:paramiko",
+      "versionInfo": "3.4.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LGPL-2.1-or-later",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/paramiko@3.4.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-passlib-1.7.4",
+      "name": "pip:passlib",
+      "versionInfo": "1.7.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/passlib@1.7.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pdfkit-1.0.0",
+      "name": "pip:pdfkit",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pdfkit@1.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-peewee-3.17.1",
+      "name": "pip:peewee",
+      "versionInfo": "3.17.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/peewee@3.17.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-protobuf-4.25.3",
+      "name": "pip:protobuf",
+      "versionInfo": "4.25.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/protobuf@4.25.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-psutil-5.9.8",
+      "name": "pip:psutil",
+      "versionInfo": "5.9.8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/psutil@5.9.8",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-publicsuffix2-2.20191221",
+      "name": "pip:publicsuffix2",
+      "versionInfo": "2.20191221",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT AND MPL-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/publicsuffix2@2.20191221",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pyasn1-0.6.0",
+      "name": "pip:pyasn1",
+      "versionInfo": "0.6.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pyasn1@0.6.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pyasn1-modules-0.4.0",
+      "name": "pip:pyasn1-modules",
+      "versionInfo": "0.4.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pyasn1-modules@0.4.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pycparser-2.22",
+      "name": "pip:pycparser",
+      "versionInfo": "2.22",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pycparser@2.22",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pydivert-2.1.0",
+      "name": "pip:pydivert",
+      "versionInfo": "2.1.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-or-later",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pydivert@2.1.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pylsqpack-0.3.18",
+      "name": "pip:pylsqpack",
+      "versionInfo": "0.3.18",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pylsqpack@0.3.18",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pynacl-1.5.0",
+      "name": "pip:pynacl",
+      "versionInfo": "1.5.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pynacl@1.5.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pyopenssl-23.3.0",
+      "name": "pip:pyopenssl",
+      "versionInfo": "23.3.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pyopenssl@23.3.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pyparsing-3.1.2",
+      "name": "pip:pyparsing",
+      "versionInfo": "3.1.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pyparsing@3.1.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pyperclip-1.8.2",
+      "name": "pip:pyperclip",
+      "versionInfo": "1.8.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pyperclip@1.8.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pyrsistent-0.20.0",
+      "name": "pip:pyrsistent",
+      "versionInfo": "0.20.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pyrsistent@0.20.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-python-lsp-jsonrpc-1.0.0",
+      "name": "pip:python-lsp-jsonrpc",
+      "versionInfo": "1.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/python-lsp-jsonrpc@1.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-pyyaml-6.0.1",
+      "name": "pip:pyyaml",
+      "versionInfo": "6.0.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/pyyaml@6.0.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-requests-2.31.0",
+      "name": "pip:requests",
+      "versionInfo": "2.31.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/requests@2.31.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-requests-file-2.0.0",
+      "name": "pip:requests-file",
+      "versionInfo": "2.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/requests-file@2.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-rsa-4.9",
+      "name": "pip:rsa",
+      "versionInfo": "4.9",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/rsa@4.9",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-ruamel-yaml-0.17.40",
+      "name": "pip:ruamel-yaml",
+      "versionInfo": "0.17.40",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/ruamel-yaml@0.17.40",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-ruamel-yaml-clib-0.2.8",
+      "name": "pip:ruamel-yaml-clib",
+      "versionInfo": "0.2.8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/ruamel-yaml-clib@0.2.8",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-semgrep-0.117.0",
+      "name": "pip:semgrep",
+      "versionInfo": "0.117.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-or-later",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/semgrep@0.117.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-service-identity-24.1.0",
+      "name": "pip:service-identity",
+      "versionInfo": "24.1.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/service-identity@24.1.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-shelljob-0.6.3",
+      "name": "pip:shelljob",
+      "versionInfo": "0.6.3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-or-later",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/shelljob@0.6.3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-simplejson-3.19.2",
+      "name": "pip:simplejson",
+      "versionInfo": "3.19.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/simplejson@3.19.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-six-1.16.0",
+      "name": "pip:six",
+      "versionInfo": "1.16.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/six@1.16.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-sortedcontainers-2.4.0",
+      "name": "pip:sortedcontainers",
+      "versionInfo": "2.4.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/sortedcontainers@2.4.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-soupsieve-2.5",
+      "name": "pip:soupsieve",
+      "versionInfo": "2.5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/soupsieve@2.5",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-sqlparse-0.4.4",
+      "name": "pip:sqlparse",
+      "versionInfo": "0.4.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/sqlparse@0.4.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-svgutils-0.3.4",
+      "name": "pip:svgutils",
+      "versionInfo": "0.3.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/svgutils@0.3.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-tldextract-3.4.4",
+      "name": "pip:tldextract",
+      "versionInfo": "3.4.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/tldextract@3.4.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-tomli-2.0.1",
+      "name": "pip:tomli",
+      "versionInfo": "2.0.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/tomli@2.0.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-tornado-6.4",
+      "name": "pip:tornado",
+      "versionInfo": "6.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/tornado@6.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-tqdm-4.66.2",
+      "name": "pip:tqdm",
+      "versionInfo": "4.66.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/tqdm@4.66.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-typing-extensions-4.10.0",
+      "name": "pip:typing-extensions",
+      "versionInfo": "4.10.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Python-2.0.1",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/typing-extensions@4.10.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-tzdata-2023.4",
+      "name": "pip:tzdata",
+      "versionInfo": "2023.4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/tzdata@2023.4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-ujson-5.9.0",
+      "name": "pip:ujson",
+      "versionInfo": "5.9.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/ujson@5.9.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-urllib3-1.26.18",
+      "name": "pip:urllib3",
+      "versionInfo": "1.26.18",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/urllib3@1.26.18",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-urwid-mitmproxy-2.1.2.1",
+      "name": "pip:urwid-mitmproxy",
+      "versionInfo": "2.1.2.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-or-later AND LGPL-2.1-only",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/urwid-mitmproxy@2.1.2.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-waitress-3.0.0",
+      "name": "pip:waitress",
+      "versionInfo": "3.0.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "ZPL-2.1",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/waitress@3.0.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-wcmatch-8.5.1",
+      "name": "pip:wcmatch",
+      "versionInfo": "8.5.1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/wcmatch@8.5.1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-werkzeug-3.0.2",
+      "name": "pip:werkzeug",
+      "versionInfo": "3.0.2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/werkzeug@3.0.2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-whitenoise-6.6.0",
+      "name": "pip:whitenoise",
+      "versionInfo": "6.6.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/whitenoise@6.6.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-wsproto-1.2.0",
+      "name": "pip:wsproto",
+      "versionInfo": "1.2.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/wsproto@1.2.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-yara-python-dex-1.0.6",
+      "name": "pip:yara-python-dex",
+      "versionInfo": "1.0.6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/yara-python-dex@1.0.6",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-pip-zstandard-0.22.0",
+      "name": "pip:zstandard",
+      "versionInfo": "0.22.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:pypi/zstandard@0.22.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-wow-actions-auto-comment-1",
+      "name": "actions:wow-actions/auto-comment",
+      "versionInfo": "1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/wow-actions/auto-comment@1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-3",
+      "name": "actions:actions/checkout",
+      "versionInfo": "3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-analyze-2",
+      "name": "actions:github/codeql-action/analyze",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/analyze@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-autobuild-2",
+      "name": "actions:github/codeql-action/autobuild",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/autobuild@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-init-2",
+      "name": "actions:github/codeql-action/init",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/init@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-3.*.*",
+      "name": "actions:actions/checkout",
+      "versionInfo": "3.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@3.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-docker-build-push-action-5.*.*",
+      "name": "actions:docker/build-push-action",
+      "versionInfo": "5.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/docker/build-push-action@5.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-docker-login-action-3.*.*",
+      "name": "actions:docker/login-action",
+      "versionInfo": "3.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/docker/login-action@3.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-docker-setup-buildx-action-3.*.*",
+      "name": "actions:docker/setup-buildx-action",
+      "versionInfo": "3.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/docker/setup-buildx-action@3.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-docker-setup-qemu-action-3.*.*",
+      "name": "actions:docker/setup-qemu-action",
+      "versionInfo": "3.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/docker/setup-qemu-action@3.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-setup-python-3",
+      "name": "actions:actions/setup-python",
+      "versionInfo": "3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/setup-python@3",
+          "referenceType": "purl"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-aioquic-mitmproxy-0.9.21.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-altgraph-0.17.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-apkid-2.1.5"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-apksigcopier-1.1.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-apksigtool-0.1.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-arpy-2.3.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-asgiref-3.7.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-asn1crypto-1.5.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-attrs-21.4.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-bcrypt-4.1.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-beautifulsoup4-4.12.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-biplist-1.0.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-blinker-1.7.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-boltons-21.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-bracex-2.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-brotli-1.1.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-bs4-0.0.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-certifi-2024.2.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-cffi-1.16.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-charset-normalizer-3.3.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-click-8.1.7"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-click-option-group-0.5.6"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-colorama-0.4.6"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-colorlog-6.8.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-cryptography-41.0.7"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-defusedxml-0.7.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-distro-1.9.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-django-5.0.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-face-22.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-filelock-3.13.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-flask-3.0.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-frida-16.2.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-glom-22.1.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-google-play-scraper-1.2.6"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-gunicorn-21.2.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-h11-0.14.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-h2-4.1.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-hpack-4.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-http-tools-4.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-hyperframe-6.0.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-idna-3.6"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-ip2location-8.10.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-itsdangerous-2.1.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-jinja2-3.1.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-jsonschema-4.17.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-kaitaistruct-0.10"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-ldap3-2.9.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-libsast-2.0.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-lief-0.14.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-lxml-5.2.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-macholib-1.16.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-markupsafe-2.1.5"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-mitmproxy-10.1.5"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-mitmproxy-macos-0.4.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-mitmproxy-rs-0.4.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-mitmproxy-windows-0.4.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-msgpack-1.0.8"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-openstep-parser-1.5.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-packaging-21.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-paramiko-3.4.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-passlib-1.7.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pdfkit-1.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-peewee-3.17.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-protobuf-4.25.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-psutil-5.9.8"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-publicsuffix2-2.20191221"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pyasn1-0.6.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pyasn1-modules-0.4.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pycparser-2.22"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pydivert-2.1.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pylsqpack-0.3.18"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pynacl-1.5.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pyopenssl-23.3.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pyparsing-3.1.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pyperclip-1.8.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pyrsistent-0.20.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-python-lsp-jsonrpc-1.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-pyyaml-6.0.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-requests-2.31.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-requests-file-2.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-rsa-4.9"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-ruamel-yaml-0.17.40"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-ruamel-yaml-clib-0.2.8"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-semgrep-0.117.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-service-identity-24.1.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-shelljob-0.6.3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-simplejson-3.19.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-six-1.16.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-sortedcontainers-2.4.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-soupsieve-2.5"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-sqlparse-0.4.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-svgutils-0.3.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-tldextract-3.4.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-tomli-2.0.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-tornado-6.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-tqdm-4.66.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-typing-extensions-4.10.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-tzdata-2023.4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-ujson-5.9.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-urllib3-1.26.18"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-urwid-mitmproxy-2.1.2.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-waitress-3.0.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-wcmatch-8.5.1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-werkzeug-3.0.2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-whitenoise-6.6.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-wsproto-1.2.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-yara-python-dex-1.0.6"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-pip-zstandard-0.22.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-wow-actions-auto-comment-1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-analyze-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-autobuild-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-init-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-3.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-docker-build-push-action-5.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-docker-login-action-3.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-docker-setup-buildx-action-3.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-docker-setup-qemu-action-3.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.MobSF-Mobile-Security-Framework-MobSF",
+      "relatedSpdxElement": "SPDXRef-actions-actions-setup-python-3"
+    }
+  ]
+}

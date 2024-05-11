@@ -1,0 +1,536 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2024-04-29T12:19:01Z",
+    "creators": [
+      "Tool: GitHub.com-Dependency-Graph"
+    ]
+  },
+  "name": "com.github.falcosecurity/falco",
+  "dataLicense": "CC0-1.0",
+  "documentDescribes": [
+    "SPDXRef-com.github.falcosecurity-falco"
+  ],
+  "documentNamespace": "https://github.com/falcosecurity/falco/dependency_graph/sbom-5f9c2c010bf43d9a",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-com.github.falcosecurity-falco",
+      "name": "com.github.falcosecurity/falco",
+      "versionInfo": "",
+      "downloadLocation": "git+https://github.com/falcosecurity/falco",
+      "licenseDeclared": "Apache-2.0",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/falcosecurity/falco"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-8ade135a41bc03ea155e62e844d188df1ea18608",
+      "name": "actions:actions/checkout",
+      "versionInfo": "8ade135a41bc03ea155e62e844d188df1ea18608",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@8ade135a41bc03ea155e62e844d188df1ea18608",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-analyze-47b3d888fe66b639e431abf22ebca059152f1eea",
+      "name": "actions:github/codeql-action/analyze",
+      "versionInfo": "47b3d888fe66b639e431abf22ebca059152f1eea",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/analyze@47b3d888fe66b639e431abf22ebca059152f1eea",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-init-47b3d888fe66b639e431abf22ebca059152f1eea",
+      "name": "actions:github/codeql-action/init",
+      "versionInfo": "47b3d888fe66b639e431abf22ebca059152f1eea",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/init@47b3d888fe66b639e431abf22ebca059152f1eea",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-codespell-project-actions-codespell-94259cd8be02ad2903ba34a22d9c13de21a74461",
+      "name": "actions:codespell-project/actions-codespell",
+      "versionInfo": "94259cd8be02ad2903ba34a22d9c13de21a74461",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/codespell-project/actions-codespell@94259cd8be02ad2903ba34a22d9c13de21a74461",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-dorny-paths-filter-4512585405083f25c027a35db413c2b3b9006d50",
+      "name": "actions:dorny/paths-filter",
+      "versionInfo": "4512585405083f25c027a35db413c2b3b9006d50",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/dorny/paths-filter@4512585405083f25c027a35db413c2b3b9006d50",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-mshick-add-pr-comment-7c0890544fb33b0bdd2e59467fbacb62e028a096",
+      "name": "actions:mshick/add-pr-comment",
+      "versionInfo": "7c0890544fb33b0bdd2e59467fbacb62e028a096",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/mshick/add-pr-comment@7c0890544fb33b0bdd2e59467fbacb62e028a096",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-leodido-rn2md-9c351d81278644c0e17b1ca68edbdba305276c73",
+      "name": "actions:leodido/rn2md",
+      "versionInfo": "9c351d81278644c0e17b1ca68edbdba305276c73",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/leodido/rn2md@9c351d81278644c0e17b1ca68edbdba305276c73",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-rez0n-actions-github-release-2.0",
+      "name": "actions:rez0n/actions-github-release",
+      "versionInfo": "2.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/rez0n/actions-github-release@2.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-softprops-action-gh-release-de2c0eb89ae2a093876385947365aca7b0e5f844",
+      "name": "actions:softprops/action-gh-release",
+      "versionInfo": "de2c0eb89ae2a093876385947365aca7b0e5f844",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/softprops/action-gh-release@de2c0eb89ae2a093876385947365aca7b0e5f844",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-upload-artifact-a8a3f3ad30e3422c9c7b888a15615d19a852ae32",
+      "name": "actions:actions/upload-artifact",
+      "versionInfo": "a8a3f3ad30e3422c9c7b888a15615d19a852ae32",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/upload-artifact@a8a3f3ad30e3422c9c7b888a15615d19a852ae32",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-docker-setup-buildx-action-f95db51fddba0c2d1ec667646a06c2ce06100226",
+      "name": "actions:docker/setup-buildx-action",
+      "versionInfo": "f95db51fddba0c2d1ec667646a06c2ce06100226",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/docker/setup-buildx-action@f95db51fddba0c2d1ec667646a06c2ce06100226",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-f43a0e5ff2bd294095638e18286ca9a3d1956744",
+      "name": "actions:actions/checkout",
+      "versionInfo": "f43a0e5ff2bd294095638e18286ca9a3d1956744",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-download-artifact-9bc31d5ccc31df68ecc42ccf4149144866c47d8a",
+      "name": "actions:actions/download-artifact",
+      "versionInfo": "9bc31d5ccc31df68ecc42ccf4149144866c47d8a",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/download-artifact@9bc31d5ccc31df68ecc42ccf4149144866c47d8a",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-setup-node-5e21ff4d9bc1a8cf6de233a3057d20ec6b3fb69d",
+      "name": "actions:actions/setup-node",
+      "versionInfo": "5e21ff4d9bc1a8cf6de233a3057d20ec6b3fb69d",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/setup-node@5e21ff4d9bc1a8cf6de233a3057d20ec6b3fb69d",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-aws-actions-amazon-ecr-login-2f9f10ea3fa2eed41ac443fee8bfbd059af2d0a4",
+      "name": "actions:aws-actions/amazon-ecr-login",
+      "versionInfo": "2f9f10ea3fa2eed41ac443fee8bfbd059af2d0a4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/aws-actions/amazon-ecr-login@2f9f10ea3fa2eed41ac443fee8bfbd059af2d0a4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-aws-actions-configure-aws-credentials-010d0da01d0b5a38af31e9c3470dbfdabdecca3a",
+      "name": "actions:aws-actions/configure-aws-credentials",
+      "versionInfo": "010d0da01d0b5a38af31e9c3470dbfdabdecca3a",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/aws-actions/configure-aws-credentials@010d0da01d0b5a38af31e9c3470dbfdabdecca3a",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-docker-login-action-343f7c4344506bcbf9b4de18042ae17996df046d",
+      "name": "actions:docker/login-action",
+      "versionInfo": "343f7c4344506bcbf9b4de18042ae17996df046d",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/docker/login-action@343f7c4344506bcbf9b4de18042ae17996df046d",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-imjasonh-setup-crane-00c9e93efa4e1138c9a7a5c594acd6c75a2fbf0c",
+      "name": "actions:imjasonh/setup-crane",
+      "versionInfo": "00c9e93efa4e1138c9a7a5c594acd6c75a2fbf0c",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/imjasonh/setup-crane@00c9e93efa4e1138c9a7a5c594acd6c75a2fbf0c",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-Noelware-docker-manifest-action-8e337e3cb9656abfcf20146b99706fd88716e942",
+      "name": "actions:Noelware/docker-manifest-action",
+      "versionInfo": "8e337e3cb9656abfcf20146b99706fd88716e942",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/Noelware/docker-manifest-action@8e337e3cb9656abfcf20146b99706fd88716e942",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-sigstore-cosign-installer-11086d25041f77fe8fe7b9ea4e48e3b9192b8f19",
+      "name": "actions:sigstore/cosign-installer",
+      "versionInfo": "11086d25041f77fe8fe7b9ea4e48e3b9192b8f19",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/sigstore/cosign-installer@11086d25041f77fe8fe7b9ea4e48e3b9192b8f19",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-falcosecurity-testing-main",
+      "name": "actions:falcosecurity/testing",
+      "versionInfo": "main",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/falcosecurity/testing@main",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8",
+      "name": "actions:actions/checkout",
+      "versionInfo": "93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-upload-artifact-3cea5372237819ed00197afe530f5a7ea3e805c8",
+      "name": "actions:actions/upload-artifact",
+      "versionInfo": "3cea5372237819ed00197afe530f5a7ea3e805c8",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/upload-artifact@3cea5372237819ed00197afe530f5a7ea3e805c8",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-upload-sarif-17573ee1cc1b9d061760f3a006fc4aac4f944fd5",
+      "name": "actions:github/codeql-action/upload-sarif",
+      "versionInfo": "17573ee1cc1b9d061760f3a006fc4aac4f944fd5",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/upload-sarif@17573ee1cc1b9d061760f3a006fc4aac4f944fd5",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-ossf-scorecard-action-0864cf19026789058feabb7e87baa5f140aac736",
+      "name": "actions:ossf/scorecard-action",
+      "versionInfo": "0864cf19026789058feabb7e87baa5f140aac736",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/ossf/scorecard-action@0864cf19026789058feabb7e87baa5f140aac736",
+          "referenceType": "purl"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-8ade135a41bc03ea155e62e844d188df1ea18608"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-analyze-47b3d888fe66b639e431abf22ebca059152f1eea"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-init-47b3d888fe66b639e431abf22ebca059152f1eea"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-codespell-project-actions-codespell-94259cd8be02ad2903ba34a22d9c13de21a74461"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-dorny-paths-filter-4512585405083f25c027a35db413c2b3b9006d50"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-mshick-add-pr-comment-7c0890544fb33b0bdd2e59467fbacb62e028a096"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-leodido-rn2md-9c351d81278644c0e17b1ca68edbdba305276c73"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-rez0n-actions-github-release-2.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-softprops-action-gh-release-de2c0eb89ae2a093876385947365aca7b0e5f844"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-actions-upload-artifact-a8a3f3ad30e3422c9c7b888a15615d19a852ae32"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-docker-setup-buildx-action-f95db51fddba0c2d1ec667646a06c2ce06100226"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-f43a0e5ff2bd294095638e18286ca9a3d1956744"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-actions-download-artifact-9bc31d5ccc31df68ecc42ccf4149144866c47d8a"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-actions-setup-node-5e21ff4d9bc1a8cf6de233a3057d20ec6b3fb69d"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-aws-actions-amazon-ecr-login-2f9f10ea3fa2eed41ac443fee8bfbd059af2d0a4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-aws-actions-configure-aws-credentials-010d0da01d0b5a38af31e9c3470dbfdabdecca3a"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-docker-login-action-343f7c4344506bcbf9b4de18042ae17996df046d"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-imjasonh-setup-crane-00c9e93efa4e1138c9a7a5c594acd6c75a2fbf0c"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-Noelware-docker-manifest-action-8e337e3cb9656abfcf20146b99706fd88716e942"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-sigstore-cosign-installer-11086d25041f77fe8fe7b9ea4e48e3b9192b8f19"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-falcosecurity-testing-main"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-actions-upload-artifact-3cea5372237819ed00197afe530f5a7ea3e805c8"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-upload-sarif-17573ee1cc1b9d061760f3a006fc4aac4f944fd5"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.falcosecurity-falco",
+      "relatedSpdxElement": "SPDXRef-actions-ossf-scorecard-action-0864cf19026789058feabb7e87baa5f140aac736"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2024-04-29T12:14:35Z",
+    "creators": [
+      "Tool: GitHub.com-Dependency-Graph"
+    ]
+  },
+  "name": "com.github.opensearch-project/security",
+  "dataLicense": "CC0-1.0",
+  "documentDescribes": [
+    "SPDXRef-com.github.opensearch-project-security"
+  ],
+  "documentNamespace": "https://github.com/opensearch-project/security/dependency_graph/sbom-c8cf2a79b192a3ae",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-com.github.opensearch-project-security",
+      "name": "com.github.opensearch-project/security",
+      "versionInfo": "",
+      "downloadLocation": "git+https://github.com/opensearch-project/security",
+      "licenseDeclared": "Apache-2.0",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/opensearch-project/security"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-github-script-7",
+      "name": "actions:actions/github-script",
+      "versionInfo": "7",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/github-script@7",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-4",
+      "name": "actions:actions/checkout",
+      "versionInfo": "4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-dawidd6-action-get-tag-1",
+      "name": "actions:dawidd6/action-get-tag",
+      "versionInfo": "1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/dawidd6/action-get-tag@1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-ncipollo-release-action-1",
+      "name": "actions:ncipollo/release-action",
+      "versionInfo": "1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/ncipollo/release-action@1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-tibdex-github-app-token-2.1.0",
+      "name": "actions:tibdex/github-app-token",
+      "versionInfo": "2.1.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/tibdex/github-app-token@2.1.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-peternied-discerning-merger-3",
+      "name": "actions:peternied/discerning-merger",
+      "versionInfo": "3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/peternied/discerning-merger@3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-peternied-find-triggering-pr-1",
+      "name": "actions:peternied/find-triggering-pr",
+      "versionInfo": "1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/peternied/find-triggering-pr@1",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-VachaShah-backport-2.2.0",
+      "name": "actions:VachaShah/backport",
+      "versionInfo": "2.2.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/VachaShah/backport@2.2.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-4.*.*",
+      "name": "actions:actions/checkout",
+      "versionInfo": "4.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@4.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-download-artifact-4.*.*",
+      "name": "actions:actions/download-artifact",
+      "versionInfo": "4.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/download-artifact@4.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-setup-java-4.*.*",
+      "name": "actions:actions/setup-java",
+      "versionInfo": "4.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/setup-java@4.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-upload-artifact-4.*.*",
+      "name": "actions:actions/upload-artifact",
+      "versionInfo": "4.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/upload-artifact@4.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-alehechka-upload-tartifact-2.*.*",
+      "name": "actions:alehechka/upload-tartifact",
+      "versionInfo": "2.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/alehechka/upload-tartifact@2.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-analyze-3.*.*",
+      "name": "actions:github/codeql-action/analyze",
+      "versionInfo": "3.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/analyze@3.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-init-3.*.*",
+      "name": "actions:github/codeql-action/init",
+      "versionInfo": "3.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/init@3.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-gradle-gradle-build-action-3.*.*",
+      "name": "actions:gradle/gradle-build-action",
+      "versionInfo": "3.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/gradle/gradle-build-action@3.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-Wandalen-wretry.action-3.4.0",
+      "name": "actions:Wandalen/wretry.action",
+      "versionInfo": "3.4.0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/Wandalen/wretry.action@3.4.0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-setup-java-4",
+      "name": "actions:actions/setup-java",
+      "versionInfo": "4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/setup-java@4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-fernandrone-linelint-0.0.6",
+      "name": "actions:fernandrone/linelint",
+      "versionInfo": "0.0.6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/fernandrone/linelint@0.0.6",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-gradle-gradle-build-action-3",
+      "name": "actions:gradle/gradle-build-action",
+      "versionInfo": "3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/gradle/gradle-build-action@3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-SvanBoxel-delete-merged-branch-2b5b058e3db41a3328fd9a6a58fd4c2545a14353",
+      "name": "actions:SvanBoxel/delete-merged-branch",
+      "versionInfo": "2b5b058e3db41a3328fd9a6a58fd4c2545a14353",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/SvanBoxel/delete-merged-branch@2b5b058e3db41a3328fd9a6a58fd4c2545a14353",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-alehechka-upload-tartifact-2",
+      "name": "actions:alehechka/upload-tartifact",
+      "versionInfo": "2",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/alehechka/upload-tartifact@2",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-aws-actions-configure-aws-credentials-4",
+      "name": "actions:aws-actions/configure-aws-credentials",
+      "versionInfo": "4",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/aws-actions/configure-aws-credentials@4",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-derek-ho-start-opensearch-4.*.*",
+      "name": "actions:derek-ho/start-opensearch",
+      "versionInfo": "4.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/derek-ho/start-opensearch@4.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-peternied-random-name-1.*.*",
+      "name": "actions:peternied/random-name",
+      "versionInfo": "1.*.*",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/peternied/random-name@1.%2A.%2A",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-release-drafter-release-drafter-6",
+      "name": "actions:release-drafter/release-drafter",
+      "versionInfo": "6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/release-drafter/release-drafter@6",
+          "referenceType": "purl"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-actions-github-script-7"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-dawidd6-action-get-tag-1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-ncipollo-release-action-1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-tibdex-github-app-token-2.1.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-peternied-discerning-merger-3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-peternied-find-triggering-pr-1"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-VachaShah-backport-2.2.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-4.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-actions-download-artifact-4.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-actions-setup-java-4.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-actions-upload-artifact-4.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-alehechka-upload-tartifact-2.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-analyze-3.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-init-3.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-gradle-gradle-build-action-3.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-Wandalen-wretry.action-3.4.0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-actions-setup-java-4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-fernandrone-linelint-0.0.6"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-gradle-gradle-build-action-3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-SvanBoxel-delete-merged-branch-2b5b058e3db41a3328fd9a6a58fd4c2545a14353"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-alehechka-upload-tartifact-2"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-aws-actions-configure-aws-credentials-4"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-derek-ho-start-opensearch-4.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-peternied-random-name-1.*.*"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.opensearch-project-security",
+      "relatedSpdxElement": "SPDXRef-actions-release-drafter-release-drafter-6"
+    }
+  ]
+}

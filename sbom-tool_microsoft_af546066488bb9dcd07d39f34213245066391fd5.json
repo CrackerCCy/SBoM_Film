@@ -1,0 +1,594 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2024-04-29T11:59:03Z",
+    "creators": [
+      "Tool: GitHub.com-Dependency-Graph"
+    ],
+    "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included."
+  },
+  "name": "com.github.microsoft/sbom-tool",
+  "dataLicense": "CC0-1.0",
+  "documentDescribes": [
+    "SPDXRef-com.github.microsoft-sbom-tool"
+  ],
+  "documentNamespace": "https://github.com/microsoft/sbom-tool/dependency_graph/sbom-fc9f553d82e7de58",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-com.github.microsoft-sbom-tool",
+      "name": "com.github.microsoft/sbom-tool",
+      "versionInfo": "",
+      "downloadLocation": "git+https://github.com/microsoft/sbom-tool",
+      "licenseDeclared": "MIT",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:github/microsoft/sbom-tool"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.ComponentDetection.Contracts",
+      "name": "nuget:Microsoft.ComponentDetection.Contracts",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Newtonsoft.Json",
+      "name": "nuget:Newtonsoft.Json",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-packageurl-dotnet",
+      "name": "nuget:packageurl-dotnet",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-AutoMapper",
+      "name": "nuget:AutoMapper",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.ComponentDetection.Common",
+      "name": "nuget:Microsoft.ComponentDetection.Common",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.ComponentDetection.Detectors",
+      "name": "nuget:Microsoft.ComponentDetection.Detectors",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.ComponentDetection.Orchestrator",
+      "name": "nuget:Microsoft.ComponentDetection.Orchestrator",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection.Abstractions",
+      "name": "nuget:Microsoft.Extensions.DependencyInjection.Abstractions",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Logging.Abstractions",
+      "name": "nuget:Microsoft.Extensions.Logging.Abstractions",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-NuGet.Configuration",
+      "name": "nuget:NuGet.Configuration",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-PowerArgs",
+      "name": "nuget:PowerArgs",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Serilog.Extensions.Hosting",
+      "name": "nuget:Serilog.Extensions.Hosting",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Serilog.Sinks.Console",
+      "name": "nuget:Serilog.Sinks.Console",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Spectre.Console.Cli",
+      "name": "nuget:Spectre.Console.Cli",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-System.IO.FileSystem.AccessControl",
+      "name": "nuget:System.IO.FileSystem.AccessControl",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-System.Private.Uri",
+      "name": "nuget:System.Private.Uri",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-System.Threading.Channels",
+      "name": "nuget:System.Threading.Channels",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-System.Threading.Tasks.Extensions",
+      "name": "nuget:System.Threading.Tasks.Extensions",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Mono.Posix.NETStandard",
+      "name": "nuget:Mono.Posix.NETStandard",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "name": "nuget:AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Hosting",
+      "name": "nuget:Microsoft.Extensions.Hosting",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Scrutor",
+      "name": "nuget:Scrutor",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-System.Text.Json",
+      "name": "nuget:System.Text.Json",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Http",
+      "name": "nuget:Microsoft.Extensions.Http",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Serilog.Sinks.Async",
+      "name": "nuget:Serilog.Sinks.Async",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Serilog.Sinks.File",
+      "name": "nuget:Serilog.Sinks.File",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-Serilog.Sinks.Map",
+      "name": "nuget:Serilog.Sinks.Map",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-NuGet.Frameworks",
+      "name": "nuget:NuGet.Frameworks",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-nuget-System.Linq.Async",
+      "name": "nuget:System.Linq.Async",
+      "versionInfo": ">= 0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-checkout-b4ffde65f46336ab88eb53be808477a3936bae11",
+      "name": "actions:actions/checkout",
+      "versionInfo": "b4ffde65f46336ab88eb53be808477a3936bae11",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-setup-dotnet-4d6c8fcf3c8f7a60068d26b594648e99df24cee3",
+      "name": "actions:actions/setup-dotnet",
+      "versionInfo": "4d6c8fcf3c8f7a60068d26b594648e99df24cee3",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/setup-dotnet@4d6c8fcf3c8f7a60068d26b594648e99df24cee3",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-codecov-codecov-action-e0b68c6749509c5f83f984dd99a76a1c1a231044",
+      "name": "actions:codecov/codecov-action",
+      "versionInfo": "e0b68c6749509c5f83f984dd99a76a1c1a231044",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/codecov/codecov-action@e0b68c6749509c5f83f984dd99a76a1c1a231044",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-analyze-379614612a29c9e28f31f39a59013eb8012a51f0",
+      "name": "actions:github/codeql-action/analyze",
+      "versionInfo": "379614612a29c9e28f31f39a59013eb8012a51f0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/analyze@379614612a29c9e28f31f39a59013eb8012a51f0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-autobuild-379614612a29c9e28f31f39a59013eb8012a51f0",
+      "name": "actions:github/codeql-action/autobuild",
+      "versionInfo": "379614612a29c9e28f31f39a59013eb8012a51f0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/autobuild@379614612a29c9e28f31f39a59013eb8012a51f0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-github-codeql-action-init-379614612a29c9e28f31f39a59013eb8012a51f0",
+      "name": "actions:github/codeql-action/init",
+      "versionInfo": "379614612a29c9e28f31f39a59013eb8012a51f0",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/github/codeql-action/init@379614612a29c9e28f31f39a59013eb8012a51f0",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-actions-github-script-60a0d83039c74a4aee543508d2ffcb1c3799cdea",
+      "name": "actions:actions/github-script",
+      "versionInfo": "60a0d83039c74a4aee543508d2ffcb1c3799cdea",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-stefanzweifel-git-auto-commit-action-8756aa072ef5b4a080af5dc8fef36c5d586e521d",
+      "name": "actions:stefanzweifel/git-auto-commit-action",
+      "versionInfo": "8756aa072ef5b4a080af5dc8fef36c5d586e521d",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/stefanzweifel/git-auto-commit-action@8756aa072ef5b4a080af5dc8fef36c5d586e521d",
+          "referenceType": "purl"
+        }
+      ]
+    },
+    {
+      "SPDXID": "SPDXRef-actions-release-drafter-release-drafter-3f0f87098bd6b5c5b9a36d49c41d998ea58f9348",
+      "name": "actions:release-drafter/release-drafter",
+      "versionInfo": "3f0f87098bd6b5c5b9a36d49c41d998ea58f9348",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "supplier": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceLocator": "pkg:githubactions/release-drafter/release-drafter@3f0f87098bd6b5c5b9a36d49c41d998ea58f9348",
+          "referenceType": "purl"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.ComponentDetection.Contracts"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Newtonsoft.Json"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-packageurl-dotnet"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-AutoMapper"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.ComponentDetection.Common"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.ComponentDetection.Detectors"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.ComponentDetection.Orchestrator"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-NuGet.Configuration"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-PowerArgs"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Serilog.Extensions.Hosting"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Serilog.Sinks.Console"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Spectre.Console.Cli"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-System.IO.FileSystem.AccessControl"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-System.Private.Uri"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-System.Threading.Channels"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-System.Threading.Tasks.Extensions"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Mono.Posix.NETStandard"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-AutoMapper.Extensions.Microsoft.DependencyInjection"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Hosting"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Scrutor"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-System.Text.Json"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Http"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Serilog.Sinks.Async"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Serilog.Sinks.File"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-Serilog.Sinks.Map"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-NuGet.Frameworks"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-nuget-System.Linq.Async"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-actions-checkout-b4ffde65f46336ab88eb53be808477a3936bae11"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-actions-setup-dotnet-4d6c8fcf3c8f7a60068d26b594648e99df24cee3"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-codecov-codecov-action-e0b68c6749509c5f83f984dd99a76a1c1a231044"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-analyze-379614612a29c9e28f31f39a59013eb8012a51f0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-autobuild-379614612a29c9e28f31f39a59013eb8012a51f0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-github-codeql-action-init-379614612a29c9e28f31f39a59013eb8012a51f0"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-actions-github-script-60a0d83039c74a4aee543508d2ffcb1c3799cdea"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-stefanzweifel-git-auto-commit-action-8756aa072ef5b4a080af5dc8fef36c5d586e521d"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-com.github.microsoft-sbom-tool",
+      "relatedSpdxElement": "SPDXRef-actions-release-drafter-release-drafter-3f0f87098bd6b5c5b9a36d49c41d998ea58f9348"
+    }
+  ]
+}
